@@ -8,4 +8,5 @@ A personal side project. A script to update more efficiently.
 - [ ] clean up
 - [ ] schedule a restart
 - [ ] logging
-- [ ] automatic
+- [ ] automatic (monthly)
+- [ ] [Upgrade `certbot`](https://certbot.eff.org/instructions?ws=apache&os=pip)
